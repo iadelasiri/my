@@ -1,2 +1,2 @@
-# my
+# Mycodes
 TechCampus
